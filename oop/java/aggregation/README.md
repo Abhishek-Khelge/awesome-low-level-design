@@ -93,7 +93,7 @@ Dr. Johnson is teaching Mathematics
 
 | Feature       | Aggregation | Composition |
 |--------------|------------|-------------|
-| Relationship | "Has-a"    | "Has-a"     |
+| Relationship | "Has-a"    | "Is-a"     |
 | Ownership    | Contained object **can exist independently** | Contained object **cannot exist without** the container |
 | Lifetime     | Contained object **outlives** the container | Contained object **is destroyed** with the container |
 | Example      | University and Professors | Car and Engine |
